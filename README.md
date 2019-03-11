@@ -4,7 +4,7 @@ Some nice lists for a happy life.
 
 ## Thinking
 
-* [Mental Models](Mental%20Models.md)
+* [Mental Models](mental-models.md)
 
 ## Learning
 
